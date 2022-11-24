@@ -1,0 +1,62 @@
+﻿body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+        
+}
+
+#MainTable {
+    height: 600px;
+    border: 0px solid red;
+    width: 100%;
+    /*  background-color:darkslateblue;
+*/
+}
+
+.Header {
+    background-color: cornflowerblue;
+    background-image: url(../Images/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20%;
+}
+
+.footer {
+    background-color: cornflowerblue;
+    height: 10%;
+    text-align: center;
+    border: 0px solid red;
+}
+
+.GridNotEditable {
+    background-color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+#lblErrorMsg {
+    /*background-color: darkorange;*/
+    color:blue;
+    padding:5px;
+    font-family: Arial;
+    height: 20%;
+    width: 30%;
+    font-weight: bolder;
+    border: 0px solid red;
+}
+
+.MainContent {
+    padding:20px;
+}
+.SuperAdminLink a
+{
+    border:8px solid red;
+    width:100px;
+    color:red;
+}
+
+.txtGridTotal {
+    width:80px;
+
+}
+
+
